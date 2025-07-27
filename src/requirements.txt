@@ -1,0 +1,17 @@
+# Core dependencies
+PyQt5==5.15.9
+reportlab==3.6.12
+pyttsx3==2.90
+Pillow==9.5.0
+qrcode==7.4.2
+bcrypt==4.0.1
+pandas==2.0.3
+openpyxl==3.1.2
+
+# Voice recognition dependencies
+vosk==0.3.45
+sounddevice==0.4.6
+numpy==1.24.3
+
+# Packaging dependencies
+pyinstaller==5.13.0 

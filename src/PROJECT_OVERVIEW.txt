@@ -1,0 +1,95 @@
+MAHER ZARAI MARKAZ - PROJECT OVERVIEW
+====================================
+
+This document provides a technical overview of the MAHER ZARAI MARKAZ desktop POS application, including its folder structure, main files, implemented features, and a TODO list for future improvements.
+
+---
+
+FOLDER & FILE STRUCTURE
+-----------------------
+
+maher-desktop-app/
+├── src/                  # Source code
+│   ├── main.py           # Main application entry point (UI, navigation, app logic)
+│   ├── database.py       # Database handler (SQLite, all DB logic)
+│   ├── billing_tab.py    # Billing/sales interface (product search, sale, receipt)
+│   ├── inventory_tab.py  # Inventory management (products, stock, expiry)
+│   ├── customers_tab.py  # Customer management (add, edit, udhaar)
+│   ├── reports_tab.py    # Sales reporting (daily, monthly, top products)
+│   ├── settings_tab.py   # Application settings (shop info, backup, users)
+│   ├── style.py          # Centralized styles and color schemes
+│   ├── receipt_generator.py # PDF receipt generation
+│   ├── quantity_dialog.py   # Dialog for entering product quantity
+│   ├── create_sidebar_icons.py # Script to generate sidebar icons
+│   ├── ... (other utility and icon scripts)
+│   └── templates/        # (For future: receipt, report, or UI templates)
+├── data/                 # Database and logs
+│   ├── maher_zarai.db    # SQLite database file
+│   └── app.log           # Application log file
+├── assets/               # Static assets (icons, logos, voice models)
+│   ├── logo.png          # App logo
+│   ├── sale_icon.png     # Sidebar icon
+│   ├── ... (other icons)
+│   └── vosk_models/      # Voice recognition models (if enabled)
+├── receipts/             # Generated PDF receipts
+├── backups/              # Database backup files
+├── requirements.txt      # Python dependencies
+├── build.py              # Script to build Windows executable
+├── install_dependencies.py # Dependency installer
+├── README.md             # User and developer documentation
+└── PROJECT_OVERVIEW.txt  # (This file)
+
+
+MAIN FILES & THEIR PURPOSE
+--------------------------
+- **main.py**: Launches the app, handles login, navigation, and main window logic. Integrates all tabs and global features (e.g., backup, notifications).
+- **database.py**: All database operations (CRUD for products, customers, sales, settings, etc.). Uses SQLite.
+- **billing_tab.py**: The sales screen. Product search (with dropdown), add/remove items, quantity dialog, sale completion, PDF receipt, and feedback to user.
+- **inventory_tab.py**: Manage products, stock, expiry, and categories. Admin-only edit features.
+- **customers_tab.py**: Add/edit customers, track udhaar (credit), payment history.
+- **reports_tab.py**: Daily/monthly sales, top products, export (future), dashboard.
+- **settings_tab.py**: Shop info, backup/restore, user management, theme, voice settings.
+- **style.py**: All color, font, and style definitions for a modern, compact, and accessible UI.
+- **receipt_generator.py**: Generates PDF receipts for sales.
+- **quantity_dialog.py**: Dialog for entering product quantity when adding to sale.
+- **create_sidebar_icons.py**: Script to generate sidebar icons (Billing, Inventory, etc.).
+
+
+KEY FEATURES IMPLEMENTED
+------------------------
+- Modern vertical sidebar layout with icons and color hierarchy
+- Compact, professional color scheme (green/yellow, less visual clutter)
+- Product search with dropdown, real-time filtering, and feedback
+- Toast notifications for user actions (add/remove/complete sale, backup, etc.)
+- Quantity dialog for product selection
+- PDF receipt generation and preview
+- Backup and restore (manual and scheduled)
+- Role-based access (admin/helper)
+- Customer udhaar (credit) tracking
+- Daily/monthly/top-product sales reports
+- Responsive layout improvements (smaller default window, better density)
+- Accessibility improvements (font size, color contrast, tooltips)
+- Error handling and user feedback for destructive actions
+- Centralized style management
+
+
+THINGS TO DO / FUTURE IMPROVEMENTS
+----------------------------------
+- Make the UI fully responsive for all screen sizes (including tablets)
+- Add keyboard shortcuts for all major actions (new sale, add item, complete sale, logout)
+- Implement export to CSV/Excel in reports
+- Add print preview and direct print for receipts
+- Integrate barcode scanner support
+- Add customer loyalty/points system
+- Add dashboard with daily KPIs and visual charts
+- Improve accessibility: screen reader support, focus outlines, ARIA labels
+- Add dark mode toggle in settings
+- Add offline/online sync indicator (for future cloud sync)
+- Add refund/return mechanism
+- Add more granular role/permission management
+- Enhance error logging and user-facing error messages
+- Add more animations and transitions for a modern feel
+- Polish all icons and add more visual cues
+
+
+For more details, see README.md or contact the developer. 
