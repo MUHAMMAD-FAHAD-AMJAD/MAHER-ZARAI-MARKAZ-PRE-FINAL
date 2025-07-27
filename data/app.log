@@ -1,0 +1,802 @@
+2025-07-23 09:36:06,211 - main - INFO - Starting application...
+2025-07-23 09:36:07,885 - main - INFO - Initializing database...
+2025-07-23 09:36:08,349 - src.database - INFO - Database initialized successfully.
+2025-07-23 09:36:08,349 - main - INFO - Creating login window...
+2025-07-23 09:36:20,883 - main - INFO - Login successful
+2025-07-23 09:36:20,885 - main - INFO - Creating main window...
+2025-07-23 09:36:20,887 - src.database - INFO - Database initialized successfully.
+2025-07-23 09:36:20,938 - main - INFO - Theme applied successfully
+2025-07-23 09:36:21,153 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-23 09:36:21,163 - src.inventory_tab - WARNING - No products found in database
+2025-07-23 09:36:21,545 - main - INFO - Auto backup scheduled for 2025-07-23 21:00:00
+2025-07-23 09:36:21,547 - main - INFO - Application started by user: admin
+2025-07-23 09:36:43,410 - main - INFO - User admin logged out
+2025-07-23 13:18:38,026 - main - INFO - Starting application...
+2025-07-23 13:18:39,448 - main - INFO - Initializing database...
+2025-07-23 13:18:39,448 - src.database - INFO - Database initialized successfully.
+2025-07-23 13:18:39,448 - main - INFO - Creating login window...
+2025-07-23 13:52:57,646 - main - INFO - Starting application...
+2025-07-23 13:52:59,546 - main - INFO - Initializing database...
+2025-07-23 13:52:59,553 - src.database - INFO - Database initialized successfully.
+2025-07-23 13:52:59,553 - main - INFO - Creating login window...
+2025-07-23 13:56:32,096 - main - INFO - Starting application...
+2025-07-23 13:56:34,192 - main - INFO - Initializing database...
+2025-07-23 13:56:34,197 - src.database - INFO - Database initialized successfully.
+2025-07-23 13:56:34,197 - main - INFO - Creating login window...
+2025-07-23 14:08:55,343 - main - INFO - Starting application...
+2025-07-23 14:08:57,261 - main - INFO - Initializing database...
+2025-07-23 14:08:57,270 - src.database - INFO - Database initialized successfully.
+2025-07-23 14:08:57,273 - main - INFO - Creating login window...
+2025-07-23 14:20:28,733 - main - INFO - Starting application...
+2025-07-23 14:20:29,935 - main - INFO - Initializing database...
+2025-07-23 14:20:29,940 - src.database - INFO - Database initialized successfully.
+2025-07-23 14:20:29,940 - main - INFO - Creating login window...
+2025-07-23 14:20:49,333 - main - INFO - Login successful
+2025-07-23 14:20:49,333 - main - INFO - Creating main window...
+2025-07-23 14:20:49,342 - src.database - INFO - Database initialized successfully.
+2025-07-23 14:20:49,442 - main - INFO - Theme applied successfully
+2025-07-23 14:20:49,780 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-23 14:20:49,796 - src.inventory_tab - WARNING - No products found in database
+2025-07-23 14:20:50,225 - main - INFO - Auto backup scheduled for 2025-07-23 21:00:00
+2025-07-23 14:20:50,225 - main - INFO - Application started by user: admin
+2025-07-23 14:20:59,212 - main - INFO - User admin logged out
+2025-07-23 14:24:50,159 - main - INFO - Starting application...
+2025-07-23 14:24:51,381 - main - INFO - Initializing database...
+2025-07-23 14:24:51,384 - src.database - INFO - Database initialized successfully.
+2025-07-23 14:24:51,384 - main - INFO - Creating login window...
+2025-07-23 14:25:03,149 - main - INFO - Login successful
+2025-07-23 14:25:03,149 - main - INFO - Creating main window...
+2025-07-23 14:25:03,157 - src.database - INFO - Database initialized successfully.
+2025-07-23 14:25:03,204 - main - INFO - Theme applied successfully
+2025-07-23 14:25:03,361 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-23 14:25:03,376 - src.inventory_tab - WARNING - No products found in database
+2025-07-23 14:25:03,737 - main - INFO - Auto backup scheduled for 2025-07-23 21:00:00
+2025-07-23 14:25:03,737 - main - INFO - Application started by user: admin
+2025-07-23 14:25:07,265 - main - INFO - User admin logged out
+2025-07-23 14:35:27,842 - main - INFO - Starting application...
+2025-07-23 14:35:28,948 - main - INFO - Initializing database...
+2025-07-23 14:35:28,954 - src.database - INFO - Database initialized successfully.
+2025-07-23 14:35:28,954 - main - INFO - Creating login window...
+2025-07-26 08:36:14,380 - main - INFO - Starting application...
+2025-07-26 08:36:17,005 - main - INFO - Initializing database...
+2025-07-26 08:36:17,029 - src.database - INFO - Database initialized successfully.
+2025-07-26 08:36:17,029 - main - INFO - Creating login window...
+2025-07-26 09:40:45,466 - main - INFO - Starting application...
+2025-07-26 09:40:48,470 - main - INFO - Initializing database...
+2025-07-26 09:40:48,474 - src.database - INFO - Database initialized successfully.
+2025-07-26 09:40:48,474 - main - INFO - Creating login window...
+2025-07-26 09:41:24,345 - main - INFO - Starting application...
+2025-07-26 09:41:25,629 - main - INFO - Initializing database...
+2025-07-26 09:41:25,641 - src.database - INFO - Database initialized successfully.
+2025-07-26 09:41:25,641 - main - INFO - Creating login window...
+2025-07-26 09:41:50,392 - main - INFO - Login successful
+2025-07-26 09:41:50,392 - main - INFO - Creating main window...
+2025-07-26 09:41:50,403 - src.database - INFO - Database initialized successfully.
+2025-07-26 09:41:50,450 - main - INFO - Theme applied successfully
+2025-07-26 09:41:50,697 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 09:41:50,715 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 09:41:51,180 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 09:41:51,180 - main - INFO - Application started by user: admin
+2025-07-26 09:41:56,329 - main - INFO - User admin logged out
+2025-07-26 09:44:03,817 - main - INFO - Starting application...
+2025-07-26 09:44:05,057 - main - INFO - Initializing database...
+2025-07-26 09:44:05,058 - src.database - INFO - Database initialized successfully.
+2025-07-26 09:44:05,058 - main - INFO - Creating login window...
+2025-07-26 10:26:27,262 - main - INFO - Starting application...
+2025-07-26 10:26:28,373 - main - INFO - Initializing database...
+2025-07-26 10:26:28,377 - src.database - INFO - Database initialized successfully.
+2025-07-26 10:26:28,377 - main - INFO - Creating login window...
+2025-07-26 11:30:26,846 - main - INFO - Starting application...
+2025-07-26 11:30:29,437 - main - INFO - Initializing database...
+2025-07-26 11:30:29,484 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:30:29,484 - main - INFO - Creating login window...
+2025-07-26 11:31:01,686 - main - INFO - Starting application...
+2025-07-26 11:31:02,774 - main - INFO - Initializing database...
+2025-07-26 11:31:02,779 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:31:02,781 - main - INFO - Creating login window...
+2025-07-26 11:39:18,096 - main - INFO - Starting application...
+2025-07-26 11:39:18,809 - main - INFO - Initializing database...
+2025-07-26 11:39:18,809 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:39:18,809 - main - INFO - Creating login window...
+2025-07-26 11:40:09,029 - main - INFO - Starting application...
+2025-07-26 11:40:09,798 - main - INFO - Initializing database...
+2025-07-26 11:40:09,798 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:40:09,798 - main - INFO - Creating login window...
+2025-07-26 11:40:50,109 - main - INFO - Starting application...
+2025-07-26 11:40:50,843 - main - INFO - Initializing database...
+2025-07-26 11:40:50,843 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:40:50,843 - main - INFO - Creating login window...
+2025-07-26 11:42:18,161 - main - INFO - Starting application...
+2025-07-26 11:42:18,887 - main - INFO - Initializing database...
+2025-07-26 11:42:18,887 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:42:18,887 - main - INFO - Creating login window...
+2025-07-26 11:43:20,705 - main - INFO - Starting application...
+2025-07-26 11:43:21,440 - main - INFO - Initializing database...
+2025-07-26 11:43:21,440 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:43:21,440 - main - INFO - Creating login window...
+2025-07-26 11:44:00,437 - main - INFO - Starting application...
+2025-07-26 11:44:01,213 - main - INFO - Initializing database...
+2025-07-26 11:44:01,213 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:44:01,213 - main - INFO - Creating login window...
+2025-07-26 11:44:41,281 - main - INFO - Starting application...
+2025-07-26 11:44:42,014 - main - INFO - Initializing database...
+2025-07-26 11:44:42,014 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:44:42,014 - main - INFO - Creating login window...
+2025-07-26 11:45:45,589 - main - INFO - Starting application...
+2025-07-26 11:45:46,306 - main - INFO - Initializing database...
+2025-07-26 11:45:46,306 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:45:46,306 - main - INFO - Creating login window...
+2025-07-26 11:49:44,684 - main - INFO - Starting application...
+2025-07-26 11:49:45,437 - main - INFO - Initializing database...
+2025-07-26 11:49:45,447 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:49:45,447 - main - INFO - Creating login window...
+2025-07-26 11:51:13,431 - main - INFO - Starting application...
+2025-07-26 11:51:14,179 - main - INFO - Initializing database...
+2025-07-26 11:51:14,195 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:51:14,195 - main - INFO - Creating login window...
+2025-07-26 11:51:34,583 - main - INFO - Login successful
+2025-07-26 11:51:34,583 - main - INFO - Creating main window...
+2025-07-26 11:51:34,583 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:51:34,645 - main - INFO - Theme applied successfully
+2025-07-26 11:51:34,741 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 11:51:34,757 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 11:51:34,997 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 11:51:34,997 - main - INFO - Application started by user: admin
+2025-07-26 11:51:41,474 - main - INFO - User admin logged out
+2025-07-26 11:52:59,394 - main - INFO - Starting application...
+2025-07-26 11:53:00,140 - main - INFO - Initializing database...
+2025-07-26 11:53:00,140 - src.database - INFO - Database initialized successfully.
+2025-07-26 11:53:00,140 - main - INFO - Creating login window...
+2025-07-26 12:01:34,432 - main - INFO - Starting application...
+2025-07-26 12:01:35,177 - main - INFO - Initializing database...
+2025-07-26 12:01:35,177 - src.database - INFO - Database initialized successfully.
+2025-07-26 12:01:35,177 - main - INFO - Creating login window...
+2025-07-26 12:10:19,641 - main - INFO - Starting application...
+2025-07-26 12:10:20,912 - main - INFO - Initializing database...
+2025-07-26 12:10:20,914 - src.database - INFO - Database initialized successfully.
+2025-07-26 12:10:20,914 - main - INFO - Creating login window...
+2025-07-26 12:12:21,223 - main - INFO - Starting application...
+2025-07-26 12:12:22,531 - main - INFO - Initializing database...
+2025-07-26 12:12:22,536 - src.database - INFO - Database initialized successfully.
+2025-07-26 12:12:22,537 - main - INFO - Creating login window...
+2025-07-26 12:20:13,012 - main - INFO - Starting application...
+2025-07-26 12:20:14,443 - main - INFO - Initializing database...
+2025-07-26 12:20:14,450 - src.database - INFO - Database initialized successfully.
+2025-07-26 12:20:14,450 - main - INFO - Creating login window...
+2025-07-26 12:24:49,328 - main - INFO - Starting application...
+2025-07-26 12:24:50,744 - main - INFO - Initializing database...
+2025-07-26 12:24:50,744 - src.database - INFO - Database initialized successfully.
+2025-07-26 12:24:50,744 - main - INFO - Creating login window...
+2025-07-26 12:29:54,164 - main - INFO - Starting application...
+2025-07-26 12:29:55,388 - main - INFO - Initializing database...
+2025-07-26 12:29:55,388 - src.database - INFO - Database initialized successfully.
+2025-07-26 12:29:55,388 - main - INFO - Creating login window...
+2025-07-26 12:35:17,854 - main - INFO - Starting application...
+2025-07-26 12:35:20,383 - main - INFO - Initializing database...
+2025-07-26 12:35:20,390 - src.database - INFO - Database initialized successfully.
+2025-07-26 12:35:20,390 - main - INFO - Creating login window...
+2025-07-26 13:21:08,303 - main - INFO - Starting application...
+2025-07-26 13:21:10,537 - main - INFO - Initializing database...
+2025-07-26 13:21:10,546 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:21:10,548 - main - INFO - Creating login window...
+2025-07-26 13:22:12,394 - main - INFO - Starting application...
+2025-07-26 13:22:14,448 - main - INFO - Initializing database...
+2025-07-26 13:22:14,452 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:22:14,452 - main - INFO - Creating login window...
+2025-07-26 13:24:07,594 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:24:10,418 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:24:10,422 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:24:36,743 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:24:36,877 - main - INFO - Theme applied successfully
+2025-07-26 13:24:37,263 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 13:24:37,300 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 13:24:37,673 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 13:24:37,673 - main - INFO - Application started by user: admin
+2025-07-26 13:24:49,012 - main - INFO - User admin logged out
+2025-07-26 13:47:22,481 - main - INFO - Starting application...
+2025-07-26 13:47:23,812 - main - INFO - Initializing database...
+2025-07-26 13:47:23,820 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:47:23,820 - main - INFO - Creating login window...
+2025-07-26 13:48:13,625 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:48:14,243 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:48:14,243 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:48:35,520 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:48:35,567 - main - INFO - Theme applied successfully
+2025-07-26 13:48:35,663 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 13:48:35,679 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 13:48:35,853 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 13:48:35,853 - main - INFO - Application started by user: admin
+2025-07-26 13:48:53,192 - main - INFO - User admin logged out
+2025-07-26 13:49:21,718 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:49:22,332 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:49:22,332 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:52:43,271 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:52:43,904 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:52:43,904 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:52:51,870 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:52:52,405 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:52:52,405 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:52:59,483 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:00,147 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:00,147 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:09,246 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:09,815 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:09,815 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:17,683 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:18,238 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:18,238 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:26,038 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:26,608 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:26,608 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:41,071 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:41,626 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:41,626 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:46,978 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:47,620 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:53:47,620 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:54:05,514 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:54:06,115 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:54:06,115 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:54:14,030 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:54:14,646 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:54:14,646 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:56:27,228 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:56:27,814 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:56:27,814 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:57:25,933 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:57:26,486 - src.database - INFO - Database initialized successfully.
+2025-07-26 13:57:26,486 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:01:12,619 - main - INFO - Starting application...
+2025-07-26 14:01:13,349 - main - INFO - Initializing database...
+2025-07-26 14:01:13,349 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:01:13,349 - main - INFO - Creating login window...
+2025-07-26 14:01:26,765 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:01:27,303 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:01:27,303 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:02:44,033 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:02:44,671 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:02:44,674 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:19:50,987 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:19:52,422 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:19:52,428 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:24:01,853 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:24:02,996 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:24:02,996 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:44:07,953 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:44:08,977 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:44:08,981 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:44:30,860 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:44:31,886 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:44:31,886 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:45:38,572 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:45:39,399 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:45:39,399 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:48:30,530 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:48:30,658 - main - INFO - Theme applied successfully
+2025-07-26 14:48:30,817 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 14:48:30,832 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 14:48:31,106 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 14:48:31,106 - main - INFO - Application started by user: admin
+2025-07-26 14:48:53,378 - main - INFO - User admin logged out
+2025-07-26 14:53:41,854 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:53:43,332 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:53:43,343 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:54:13,926 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:54:14,107 - main - INFO - Theme applied successfully
+2025-07-26 14:54:14,351 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 14:54:14,384 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 14:54:14,675 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 14:54:14,675 - main - INFO - Application started by user: admin
+2025-07-26 14:54:20,172 - main - INFO - User admin logged out
+2025-07-26 14:54:42,184 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:54:43,124 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:54:43,124 - src.database - INFO - Database initialized successfully.
+2025-07-26 14:59:59,439 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:00:00,288 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:00:00,293 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:05:23,086 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:05:23,935 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:05:23,935 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:05:36,609 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:05:36,743 - main - INFO - Theme applied successfully
+2025-07-26 15:05:36,919 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 15:05:36,960 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 15:05:37,255 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 15:05:37,255 - main - INFO - Application started by user: admin
+2025-07-26 15:05:47,249 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 15:07:29,519 - main - INFO - User admin logged out
+2025-07-26 15:08:06,269 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:07,081 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:07,081 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:13,271 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:14,085 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:14,087 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:19,031 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:19,892 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:19,892 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:24,554 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:25,388 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:25,393 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:31,671 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:32,513 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:32,513 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:37,065 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:37,925 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:37,929 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:42,749 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:43,563 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:43,566 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:47,731 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:48,563 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:48,569 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:54,336 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:55,096 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:08:55,106 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:10:06,166 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:10:07,064 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:10:07,064 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:14:25,687 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:14:25,846 - main - INFO - Theme applied successfully
+2025-07-26 15:14:26,139 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 15:14:26,176 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 15:14:26,494 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 15:14:26,494 - main - INFO - Application started by user: admin
+2025-07-26 15:14:31,759 - main - INFO - User admin logged out
+2025-07-26 15:15:15,171 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:15:16,040 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:15:16,042 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:15:43,732 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:15:44,787 - src.database - INFO - Database initialized successfully.
+2025-07-26 15:15:44,793 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:01:27,799 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:01:29,474 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:01:29,474 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:02:16,016 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:02:17,583 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:02:17,587 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:02:24,217 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:02:25,536 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:02:25,552 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:03:12,419 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:03:14,743 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:03:14,748 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:05:45,527 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:05:47,016 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:05:47,018 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:06:09,859 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:06:11,483 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:06:11,489 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:09:59,400 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:10:00,990 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:10:00,990 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:10:24,761 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:10:26,271 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:10:26,274 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:15:48,583 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:15:51,368 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:15:51,368 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:26:49,192 - main - INFO - Starting application...
+2025-07-26 16:26:50,735 - main - INFO - Initializing database...
+2025-07-26 16:26:50,748 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:26:50,748 - main - INFO - Creating login window...
+2025-07-26 16:27:32,820 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:27:33,582 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:27:33,585 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:28:34,021 - main - INFO - Starting application...
+2025-07-26 16:28:34,745 - main - INFO - Initializing database...
+2025-07-26 16:28:34,761 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:28:34,761 - main - INFO - Creating login window...
+2025-07-26 16:28:49,114 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:28:49,747 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:28:49,747 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:29:08,674 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:29:09,357 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:29:09,357 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:32:09,727 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:32:10,411 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:32:10,424 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:32:58,852 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:32:59,547 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:32:59,547 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:37:36,322 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:37:37,244 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:37:37,244 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:38:21,832 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:38:22,744 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:38:22,744 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:38:44,673 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:38:45,613 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:38:45,616 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:51:59,653 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:52:00,638 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:52:00,638 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:52:08,329 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:52:09,266 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:52:09,266 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:52:39,229 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:52:40,500 - src.database - INFO - Database initialized successfully.
+2025-07-26 16:52:40,501 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:30,463 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:32,765 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:32,765 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:49,281 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:51,546 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:51,546 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:57,190 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:59,394 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:00:59,394 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:03:41,068 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:03:42,155 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:03:42,155 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:15:02,567 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:15:03,352 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:15:03,358 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:17:05,965 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:17:06,848 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:17:06,848 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:17:30,464 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:17:31,629 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:17:31,632 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:19:39,871 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:19:40,518 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:19:40,518 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:22:08,096 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:22:08,844 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:22:08,844 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:43:12,773 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:43:13,420 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:43:13,420 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:43:27,548 - src.database - INFO - Database initialized successfully.
+2025-07-26 17:43:27,653 - main - INFO - Theme applied successfully
+2025-07-26 17:43:27,867 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 17:43:27,867 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 17:43:28,141 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 17:43:28,141 - main - INFO - Application started by user: admin
+2025-07-26 17:43:33,924 - main - INFO - User admin logged out
+2025-07-26 19:35:50,003 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:35:50,625 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:35:50,625 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:36:33,819 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:36:33,898 - main - INFO - Theme applied successfully
+2025-07-26 19:36:34,040 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 19:36:34,056 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 19:36:34,310 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 19:36:34,324 - main - INFO - Application started by user: admin
+2025-07-26 19:37:46,027 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 19:37:46,886 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 19:38:03,785 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-26 19:38:03')
+2025-07-26 19:38:07,292 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-26 19:38:07')
+2025-07-26 19:38:10,831 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-26 19:38:10')
+2025-07-26 19:38:11,540 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-26 19:38:11')
+2025-07-26 19:38:12,452 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 19:38:13,376 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 19:38:15,058 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 19:38:24,824 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 19:38:25,631 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 19:38:26,234 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-26 19:38:26')
+2025-07-26 19:38:37,529 - main - INFO - User admin logged out
+2025-07-26 19:40:01,613 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:40:02,312 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:40:02,312 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:40:19,894 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:40:21,075 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:40:21,077 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:40:53,220 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:40:54,606 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:40:54,611 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:46:36,976 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:46:37,706 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:46:37,706 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:46:51,050 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:46:51,177 - main - INFO - Theme applied successfully
+2025-07-26 19:46:51,335 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-26 19:46:51,357 - src.inventory_tab - WARNING - No products found in database
+2025-07-26 19:46:51,907 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-26 19:46:51')
+2025-07-26 19:46:52,239 - main - INFO - Auto backup scheduled for 2025-07-26 21:00:00
+2025-07-26 19:46:52,243 - main - INFO - Application started by user: admin
+2025-07-26 19:49:34,214 - main - INFO - User admin logged out
+2025-07-26 19:49:43,218 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:49:44,051 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:49:44,077 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:50:54,845 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:50:55,529 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:50:55,530 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:55:51,788 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:55:52,615 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:55:52,617 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:04,485 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:05,227 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:05,227 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:12,866 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:13,637 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:13,639 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:54,290 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:55,193 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:56:55,193 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:19,755 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:20,616 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:20,623 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:27,296 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:28,166 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:28,169 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:35,124 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:36,047 - src.database - INFO - Database initialized successfully.
+2025-07-26 19:57:36,052 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:02:20,628 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:02:21,517 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:02:21,533 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:10,974 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:11,901 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:11,901 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:22,254 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:23,259 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:23,262 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:30,409 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:31,233 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:31,249 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:37,488 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:38,300 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:06:38,312 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:08:18,887 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:08:19,819 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:08:19,829 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:09:09,759 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:09:10,549 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:09:10,549 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:09:51,642 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:09:52,626 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:09:52,626 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:10:32,244 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:10:33,218 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:10:33,218 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:15:38,997 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:15:39,902 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:15:39,908 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:16:06,786 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:16:08,455 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:16:08,457 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:16:57,022 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:16:57,822 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:16:57,826 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:17:20,052 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:17:21,040 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:17:21,041 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:30:54,950 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:30:55,787 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:30:55,792 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:02,054 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:02,984 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:02,984 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:11,837 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:12,609 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:12,609 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:38,956 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:39,794 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:39,794 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:52,391 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:53,218 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:31:53,218 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:05,524 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:06,308 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:06,308 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:36,262 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:36,999 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:36,999 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:44,652 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:45,443 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:33:45,443 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:07,432 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:08,328 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:08,328 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:31,422 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:32,183 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:32,183 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:46,358 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:47,116 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:34:47,116 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:35:02,471 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:35:03,223 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:35:03,225 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:35:26,521 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:35:27,432 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:35:27,434 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:07,286 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:08,398 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:08,398 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:28,740 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:29,403 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:29,405 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:36,121 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:37,036 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:37,036 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:57,753 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:58,452 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:36:58,452 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:22,988 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:23,802 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:23,802 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:37,798 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:38,516 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:38,516 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:45,147 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:46,257 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:37:46,257 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:38:32,881 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:38:33,707 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:38:33,717 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:38:47,941 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:38:48,901 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:38:48,901 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:39:12,979 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:39:14,651 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:39:14,657 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:44:06,473 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:44:07,252 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:44:07,254 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:45:32,433 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:45:33,271 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:45:33,271 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:45:39,697 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:45:40,532 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:45:40,533 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:19,319 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:20,172 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:20,177 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:44,009 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:44,845 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:44,845 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:52,771 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:53,602 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:46:53,607 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:00,720 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:01,584 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:01,587 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:16,107 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:16,947 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:16,947 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:31,183 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:32,080 - src.database - INFO - Database initialized successfully.
+2025-07-26 20:47:32,086 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:21:02,440 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:21:03,687 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:21:03,689 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:43:55,556 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:43:56,819 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:43:56,821 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:44:09,921 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:44:10,864 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:44:10,864 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:50:56,153 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:50:57,155 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:50:57,159 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:51:03,181 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:51:04,102 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:51:04,104 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:51:23,545 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:51:24,650 - src.database - INFO - Database initialized successfully.
+2025-07-27 06:51:24,653 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:00:37,205 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:00:38,228 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:00:38,228 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:01:00,706 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:01:01,844 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:01:01,846 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:50:19,467 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:50:20,663 - src.database - INFO - Database initialized successfully.
+2025-07-27 07:50:20,665 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:26:44,259 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:26:45,395 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:26:45,405 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:26:51,686 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:26:52,566 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:26:52,566 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:33:05,631 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:33:06,606 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:33:06,606 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:33:17,745 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:33:17,918 - main - INFO - Theme applied successfully
+2025-07-27 08:33:18,217 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-27 08:33:18,233 - src.inventory_tab - WARNING - No products found in database
+2025-07-27 08:33:18,786 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-27 08:33:18')
+2025-07-27 08:33:19,030 - main - INFO - Auto backup scheduled for 2025-07-27 21:00:00
+2025-07-27 08:33:19,030 - main - INFO - Application started by user: admin
+2025-07-27 08:33:35,814 - main - INFO - User admin logged out
+2025-07-27 08:51:29,621 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:51:30,545 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:51:30,545 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:51:48,763 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:51:49,597 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:51:49,597 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:53:02,222 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:53:02,333 - main - INFO - Theme applied successfully
+2025-07-27 08:53:02,517 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-27 08:53:02,533 - src.inventory_tab - WARNING - No products found in database
+2025-07-27 08:53:03,076 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-27 08:53:03')
+2025-07-27 08:53:03,372 - main - INFO - Auto backup scheduled for 2025-07-27 21:00:00
+2025-07-27 08:53:03,372 - main - INFO - Application started by user: admin
+2025-07-27 08:53:47,102 - main - INFO - User admin logged out
+2025-07-27 08:54:51,838 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:54:52,772 - src.database - INFO - Database initialized successfully.
+2025-07-27 08:54:52,772 - src.database - INFO - Database initialized successfully.
+2025-07-27 10:48:07,560 - src.database - INFO - Database initialized successfully.
+2025-07-27 10:48:09,112 - src.database - INFO - Database initialized successfully.
+2025-07-27 10:48:09,114 - src.database - INFO - Database initialized successfully.
+2025-07-27 10:48:23,305 - src.database - INFO - Database initialized successfully.
+2025-07-27 10:48:23,390 - main - INFO - Theme applied successfully
+2025-07-27 10:48:23,519 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-27 10:48:23,531 - src.inventory_tab - WARNING - No products found in database
+2025-07-27 10:48:23,945 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-27 10:48:23')
+2025-07-27 10:48:24,120 - main - INFO - Auto backup scheduled for 2025-07-27 21:00:00
+2025-07-27 10:48:24,120 - main - INFO - Application started by user: admin
+2025-07-27 11:00:04,629 - main - INFO - Application exited by user: admin
+2025-07-27 11:03:35,706 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:03:36,501 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:03:36,505 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:03:54,310 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:03:54,383 - main - INFO - Theme applied successfully
+2025-07-27 11:03:54,515 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-27 11:03:54,528 - src.inventory_tab - WARNING - No products found in database
+2025-07-27 11:03:54,912 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-27 11:03:54')
+2025-07-27 11:03:55,120 - main - INFO - Auto backup scheduled for 2025-07-27 21:00:00
+2025-07-27 11:03:55,120 - main - INFO - Application started by user: admin
+2025-07-27 11:03:58,868 - main - INFO - Application exited by user: admin
+2025-07-27 11:07:42,030 - main - INFO - Starting application...
+2025-07-27 11:07:43,324 - main - INFO - Initializing database...
+2025-07-27 11:07:43,330 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:07:43,330 - main - INFO - Creating login window...
+2025-07-27 11:12:55,611 - main - INFO - Starting application...
+2025-07-27 11:12:55,722 - main - ERROR - Fatal error occurred
+Traceback (most recent call last):
+  File "D:\MAHER-POS-SYSTEM-main\MAHER-POS-SYSTEM-main\src\app.py", line 52, in main
+    from src.main import LoginWindow, MainWindow, Database, APP_NAME
+  File "D:\MAHER-POS-SYSTEM-main\MAHER-POS-SYSTEM-main\src\main.py", line 64, in <module>
+    from src.style import (
+  File "D:\MAHER-POS-SYSTEM-main\MAHER-POS-SYSTEM-main\src\style.py", line 212, in <module>
+    color: {ACCENT_COLOR};
+NameError: name 'color' is not defined
+2025-07-27 11:17:16,972 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:17:17,770 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:17:17,789 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:17:37,111 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:17:37,157 - main - INFO - Theme applied successfully
+2025-07-27 11:17:37,317 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-27 11:17:37,332 - src.inventory_tab - WARNING - No products found in database
+2025-07-27 11:17:37,762 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-27 11:17:37')
+2025-07-27 11:17:38,010 - main - INFO - Auto backup scheduled for 2025-07-27 21:00:00
+2025-07-27 11:17:38,010 - main - INFO - Application started by user: admin
+2025-07-27 11:17:46,175 - main - INFO - User admin logged out
+2025-07-27 11:22:37,528 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:22:38,362 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:22:38,373 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:23:10,950 - src.database - INFO - Database initialized successfully.
+2025-07-27 11:23:11,025 - main - INFO - Theme applied successfully
+2025-07-27 11:23:11,182 - src.inventory_tab - ERROR - Low stock table not initialized
+2025-07-27 11:23:11,201 - src.inventory_tab - WARNING - No products found in database
+2025-07-27 11:23:11,595 - src.database - ERROR - Query failed: FOREIGN KEY constraint failed
+Query: INSERT INTO user_activity (user_id, action, description, timestamp) VALUES (?, ?, ?, ?)
+Params: (0, 'Setting Change', "Setting 'accent_color' changed.", '2025-07-27 11:23:11')
+2025-07-27 11:23:11,801 - main - INFO - Auto backup scheduled for 2025-07-27 21:00:00
+2025-07-27 11:23:11,801 - main - INFO - Application started by user: admin
+2025-07-27 11:23:20,489 - main - INFO - User admin logged out
